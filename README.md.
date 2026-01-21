@@ -1,0 +1,19 @@
+COMPANY: CODETECH IT SOLUTIONS
+
+NAME : KAMINI T
+
+*INTERN ID : CTIS1101
+
+DOMAIN : JAVA PROGRAMMING
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH KUMAR
+
+DESCRIPTION:
+This project develops a multithreaded chat application in Java using a client–server architecture.
+A central server handles multiple clients simultaneously through Java sockets and separate threads.
+Messages from any client are broadcast to all connected users in real time.
+The system demonstrates socket programming, multithreading, and real-time communication in Java.
+
+#OUTPUT
